@@ -1,6 +1,6 @@
 Name:		texlive-tipfr
 Version:	38646
-Release:	1
+Release:	2
 Summary:	Produces calculator's keys with the help of TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tipfr
