@@ -3,7 +3,7 @@ Version:	38646
 Release:	2
 Summary:	Produces calculator's keys with the help of TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tipfr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tipfr
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tipfr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tipfr.doc.r%{version}.tar.xz
